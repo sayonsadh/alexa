@@ -71,6 +71,34 @@ function read(text){
         voiceSpeech.text="India, kerala"
     }
 
+    else if(text == "how are you"){
+        voiceSpeech.text="i am fine and you"
+    }
+
+    else if(text == "what are you doing now"){
+        voiceSpeech.text="now i play ceram board"
+    }
+
+    else if(text == "please tell me your address"){
+        voiceSpeech.text="I live in gazipur, dhaka , bangladesh"
+    }
+
+    else if(text == "who is your favourite singer"){
+        voiceSpeech.text="nogor baul james"
+    }
+
+    else if(text == "who is your favourite actor"){
+        voiceSpeech.text="rajpal yadav"
+    }
+
+    else if(text == "what is your favourite game"){
+        voiceSpeech.text="ceram board"
+    }
+
+    else if(text == "how much money you have"){
+        voiceSpeech.text="hum miskin admi hay re baba"
+    }
+
     else if(text == "what's your aim in life"){
         voiceSpeech.text="i want to be a web developer and also businessman"
     }
