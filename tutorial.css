@@ -1,8 +1,8 @@
 body{
     background-image: url(/image/my-image.jpeg);
     background-repeat: no-repeat;
-    background-size: 100% 100%; 
-    height: 150vh;
+    background-size: 100% ; 
+    /* height: 100vh; */
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -18,7 +18,7 @@ body{
 
 .container{
     text-align: center;
-    margin-top: 150px;
+    margin-top: 100px;
     background: rgba(248, 244, 243, 0.6);
 
     /* opacity: 0.5; */
@@ -64,7 +64,7 @@ i:hover{
 }
 
 .copyright{
-    margin-top: 500px;
+    margin-top: 400px;
     color: rgb(22, 22, 21);
     font-size: large;
     font-weight: 700;

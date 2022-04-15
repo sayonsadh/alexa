@@ -54,7 +54,11 @@ function read(text){
 
     // fovourite 
     else if(text == "what is your favourite food"){
-        voiceSpeech.text="Biriyani"
+        voiceSpeech.text="Biriyani and ice cream, but i hate fuchka"
+    }
+
+    else if(text == "what's your favourite food"){
+        voiceSpeech.text="Biriyani and ice cream, but i hate fuchka"
     }
 
     else if(text == "who is your favourite player"){
