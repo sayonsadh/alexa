@@ -112,8 +112,23 @@ function read(text){
     else if(text == "do you have girlfriend"){
         voiceSpeech.text="no never, me and my boss sadh single forever"
     }
+
     else if(text == "you have girlfriend"){
         voiceSpeech.text="no never, me and my boss sadh, single forever"
+    }
+
+    else if(text == "how much characterless Ranveer Kapoor was"){
+        voiceSpeech.text="more then your ex"
+    }
+    else if(text == "how much characterless Ranveer Kapor was"){
+        voiceSpeech.text="more then your ex"
+    }
+
+    else if(text == "how much characterless Ranbir Kapor was"){
+        voiceSpeech.text="more then your ex"
+    }
+    else if(text == "how much characterless Ranbir Kapoor was"){
+        voiceSpeech.text="more then your ex"
     }
 
     // condition end 
